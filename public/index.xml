@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capsule</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Capsule</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2024 09:44:27 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Must-Know Data Structures and Algorithms for FAANG Interviews</title>
+      <link>http://localhost:1313/second/</link>
+      <pubDate>Sat, 16 Nov 2024 09:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/second/</guid>
+      <description>&lt;h1 id=&#34;must-know-data-structures-and-algorithms-for-faang-interviews&#34;&gt;Must-Know Data Structures and Algorithms for FAANG Interviews&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Cracking FAANG interviews requires more than basic programming skills—it demands a deep understanding of data structures and algorithms (DSA). These concepts form the foundation of problem-solving in coding interviews. This guide highlights the must-know topics and practical tips to boost your preparation.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-top-10-algorithms-to-master&#34;&gt;1. Top 10 Algorithms to Master&lt;/h3&gt;&#xA;&lt;p&gt;A strong grasp of fundamental algorithms will give you an edge in technical interviews. Here&amp;rsquo;s a list of the most commonly asked ones:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placement Season Survival Guide: Tips to Land Your Dream Offer</title>
+      <link>http://localhost:1313/first/</link>
+      <pubDate>Sat, 16 Nov 2024 09:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/first/</guid>
+      <description>&lt;p&gt;Content&lt;/p&gt;&#xA;&lt;h1 id=&#34;placement-season-survival-guide-tips-to-land-your-dream-offer&#34;&gt;Placement Season Survival Guide: Tips to Land Your Dream Offer&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Placement season is a time of high stakes and intense preparation. For students, it marks the transition from campus to corporate life. This guide provides actionable insights to help you navigate placement season effectively, from resume building to acing interviews.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-decoding-the-placement-process&#34;&gt;1. Decoding the Placement Process&lt;/h3&gt;&#xA;&lt;p&gt;Understanding the placement process is crucial to setting your expectations and preparing strategically.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>System Design for Beginners: How to Get Started</title>
+      <link>http://localhost:1313/third/</link>
+      <pubDate>Sat, 16 Nov 2024 09:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/third/</guid>
+      <description>&lt;h1 id=&#34;system-design-for-beginners-how-to-get-started&#34;&gt;System Design for Beginners: How to Get Started&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;System design can feel overwhelming for beginners, but it is an essential skill for building scalable and reliable systems. This guide breaks down the basics and provides a roadmap for getting started with confidence.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-what-is-system-design-and-why-does-it-matter&#34;&gt;1. What Is System Design and Why Does It Matter?&lt;/h3&gt;&#xA;&lt;p&gt;System design involves creating the architecture for software systems to ensure they are &lt;strong&gt;scalable&lt;/strong&gt;, &lt;strong&gt;reliable&lt;/strong&gt;, and &lt;strong&gt;efficient&lt;/strong&gt;. It&amp;rsquo;s critical in modern software development as applications grow in complexity and scale.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tech Interview Cheat Sheet: Must-Know Topics for All Rounds</title>
+      <link>http://localhost:1313/fourth/</link>
+      <pubDate>Sat, 16 Nov 2024 09:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/fourth/</guid>
+      <description>&lt;h1 id=&#34;tech-interview-cheat-sheet-must-know-topics-for-all-rounds&#34;&gt;Tech Interview Cheat Sheet: Must-Know Topics for All Rounds&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Technical interviews can be daunting, but having a clear roadmap of essential topics can make your preparation more efficient. This cheat sheet highlights the must-know areas for tackling every round of a tech interview—from coding challenges to behavioral discussions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-dsa-essentials&#34;&gt;1. DSA Essentials&lt;/h3&gt;&#xA;&lt;p&gt;Data Structures and Algorithms (DSA) are the foundation of technical interviews. Here&amp;rsquo;s what you need to focus on:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Understanding Databases: Choosing the Right One for Your System</title>
+      <link>http://localhost:1313/fifth/</link>
+      <pubDate>Sat, 16 Nov 2024 09:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/fifth/</guid>
+      <description>&lt;h2 id=&#34;understanding-databases-choosing-the-right-one-for-your-system&#34;&gt;Understanding Databases: Choosing the Right One for Your System&lt;/h2&gt;&#xA;&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;p&gt;Choosing the right database is crucial for building scalable, efficient, and reliable systems. This guide breaks down the key types of databases and their features, helping you decide based on your system&amp;rsquo;s needs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-relational-databases-vs-nosql&#34;&gt;&lt;strong&gt;1. Relational Databases vs NoSQL&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;relational-databases&#34;&gt;&lt;strong&gt;Relational Databases&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Relational databases store data in structured tables with predefined schemas. They are ideal for applications requiring ACID (Atomicity, Consistency, Isolation, Durability) properties. Examples include &lt;strong&gt;MySQL&lt;/strong&gt; and &lt;strong&gt;PostgreSQL&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

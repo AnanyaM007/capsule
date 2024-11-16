@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sql on Capsule</title>
+    <link>http://localhost:1313/categories/sql/</link>
+    <description>Recent content in Sql on Capsule</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2024 09:44:27 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Databases: Choosing the Right One for Your System</title>
+      <link>http://localhost:1313/fifth/</link>
+      <pubDate>Sat, 16 Nov 2024 09:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/fifth/</guid>
+      <description>&lt;h2 id=&#34;understanding-databases-choosing-the-right-one-for-your-system&#34;&gt;Understanding Databases: Choosing the Right One for Your System&lt;/h2&gt;&#xA;&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;p&gt;Choosing the right database is crucial for building scalable, efficient, and reliable systems. This guide breaks down the key types of databases and their features, helping you decide based on your system&amp;rsquo;s needs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-relational-databases-vs-nosql&#34;&gt;&lt;strong&gt;1. Relational Databases vs NoSQL&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;relational-databases&#34;&gt;&lt;strong&gt;Relational Databases&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Relational databases store data in structured tables with predefined schemas. They are ideal for applications requiring ACID (Atomicity, Consistency, Isolation, Durability) properties. Examples include &lt;strong&gt;MySQL&lt;/strong&gt; and &lt;strong&gt;PostgreSQL&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

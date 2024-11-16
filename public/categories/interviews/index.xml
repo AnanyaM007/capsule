@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interviews on Capsule</title>
+    <link>http://localhost:1313/categories/interviews/</link>
+    <description>Recent content in Interviews on Capsule</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2024 09:44:27 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/interviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Ace Your FAANG Interview: A Comprehensive Guide</title>
+      <link>http://localhost:1313/first/</link>
+      <pubDate>Sat, 16 Nov 2024 09:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/first/</guid>
+      <description>&lt;p&gt;Content&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-to-ace-your-faang-interview-a-comprehensive-guide&#34;&gt;How to Ace Your FAANG Interview: A Comprehensive Guide&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Gain insights into FAANG interview formats, rounds, and expectations with this comprehensive guide.&lt;/p&gt;&#xA;&lt;h3 id=&#34;sections&#34;&gt;Sections&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Understanding the Process&lt;/strong&gt;&lt;br&gt;&#xA;From resume shortlisting to onsite interviews, know what to expect.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Core Skills to Master&lt;/strong&gt;&lt;br&gt;&#xA;Key areas: coding, system design, and behavioral questions.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time Management for Preparation&lt;/strong&gt;&lt;br&gt;&#xA;Tips to effectively allocate time to various preparation stages.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Mock Interviews&lt;/strong&gt;&lt;br&gt;&#xA;Why mock interviews matter and how to practice them effectively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Must-Know Data Structures and Algorithms for FAANG Interviews</title>
+      <link>http://localhost:1313/second/</link>
+      <pubDate>Sat, 16 Nov 2024 09:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/second/</guid>
+      <description>&lt;h1 id=&#34;must-know-data-structures-and-algorithms-for-faang-interviews&#34;&gt;Must-Know Data Structures and Algorithms for FAANG Interviews&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Mastering key concepts in data structures and algorithms is crucial for success in FAANG interviews. This guide breaks it down for you.&lt;/p&gt;&#xA;&lt;h3 id=&#34;sections&#34;&gt;Sections&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Top 10 Algorithms to Master&lt;/strong&gt;&lt;br&gt;&#xA;Explore essential algorithms like Binary Search, Dynamic Programming, and Graph Traversals.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Importance of Space and Time Complexity&lt;/strong&gt;&lt;br&gt;&#xA;Understand how to optimize solutions for efficiency and scalability.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Practical Problems to Practice&lt;/strong&gt;&lt;br&gt;&#xA;Solve curated problems that reflect real interview scenarios.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tech Interview Cheat Sheet: Must-Know Topics for All Rounds</title>
+      <link>http://localhost:1313/fourth/</link>
+      <pubDate>Sat, 16 Nov 2024 09:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/fourth/</guid>
+      <description>&lt;h1 id=&#34;tech-interview-cheat-sheet-must-know-topics-for-all-rounds&#34;&gt;Tech Interview Cheat Sheet: Must-Know Topics for All Rounds&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This cheat sheet covers the essential topics you need to master for acing technical interviews.&lt;/p&gt;&#xA;&lt;h3 id=&#34;sections&#34;&gt;Sections&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;DSA Essentials&lt;/strong&gt;&lt;br&gt;&#xA;Focus on key concepts like Sorting, Trees, Graphs, and more.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;System Design&lt;/strong&gt;&lt;br&gt;&#xA;Master high-level architecture concepts and trade-offs in system design.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Behavioral Questions&lt;/strong&gt;&lt;br&gt;&#xA;Prepare for questions on teamwork, challenges faced, and past achievements.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on Capsule</title>
+    <link>http://localhost:1313/categories/database/</link>
+    <description>Recent content in Database on Capsule</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2024 09:44:27 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>System Design for Beginners: How to Get Started</title>
+      <link>http://localhost:1313/third/</link>
+      <pubDate>Sat, 16 Nov 2024 09:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/third/</guid>
+      <description>&lt;h1 id=&#34;system-design-for-beginners-how-to-get-started&#34;&gt;System Design for Beginners: How to Get Started&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Breaking down the essentials of system design for those who are just beginning to explore the topic.&lt;/p&gt;&#xA;&lt;h3 id=&#34;sections&#34;&gt;Sections&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;What Is System Design and Why Does It Matter?&lt;/strong&gt;&lt;br&gt;&#xA;Understand the importance of system design in building scalable and reliable systems.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Components to Understand&lt;/strong&gt;&lt;br&gt;&#xA;Learn about crucial elements like Load Balancers, Databases, and Caching.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Approaching System Design Problems: A Step-by-Step Guide&lt;/strong&gt;&lt;br&gt;&#xA;A clear process for tackling system design challenges in interviews and real-world scenarios.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

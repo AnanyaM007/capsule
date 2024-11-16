@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Capsule'
+
+paginate = 4
+
+[params]
+  description = "The fastest blog"
+
+[taxonomies]
+category = 'categories'
+author = 'authors'

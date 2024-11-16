@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System on Capsule</title>
+    <link>http://localhost:1313/categories/system/</link>
+    <description>Recent content in System on Capsule</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2024 09:44:27 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Interview Cheat Sheet: Must-Know Topics for All Rounds</title>
+      <link>http://localhost:1313/fourth/</link>
+      <pubDate>Sat, 16 Nov 2024 09:44:27 +0530</pubDate>
+      <guid>http://localhost:1313/fourth/</guid>
+      <description>&lt;h1 id=&#34;tech-interview-cheat-sheet-must-know-topics-for-all-rounds&#34;&gt;Tech Interview Cheat Sheet: Must-Know Topics for All Rounds&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This cheat sheet covers the essential topics you need to master for acing technical interviews.&lt;/p&gt;&#xA;&lt;h3 id=&#34;sections&#34;&gt;Sections&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;DSA Essentials&lt;/strong&gt;&lt;br&gt;&#xA;Focus on key concepts like Sorting, Trees, Graphs, and more.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;System Design&lt;/strong&gt;&lt;br&gt;&#xA;Master high-level architecture concepts and trade-offs in system design.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Behavioral Questions&lt;/strong&gt;&lt;br&gt;&#xA;Prepare for questions on teamwork, challenges faced, and past achievements.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
